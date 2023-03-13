@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://Taras-Veremchuk/goitacademy/goit-js-hw-09.git"
+    "url": "git+https://github.com/Taras-Veremchuk/goit-js-hw-09.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://Taras-Veremchuk/goitacademy/goit-js-hw-09/issues"
+    "url": "https://github.com/Taras-Veremchuk/goit-js-hw-09/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
